@@ -335,6 +335,11 @@
       metrics->width  = (FT_UShort)imgWidth;
       metrics->height = (FT_UShort)imgHeight;
 
+      /* bail out if the width and/or height were truncated */
+      if ( metrics->width != imgWidth || metrics->height != imgHeight ) {
+        goto DestroyExit;
+      }
+
       map->width      = metrics->width;
       map->rows       = metrics->height;
       map->pixel_mode = FT_PIXEL_MODE_BGRA;
