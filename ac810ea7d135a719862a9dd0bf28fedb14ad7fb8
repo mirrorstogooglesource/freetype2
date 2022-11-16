@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1aaefbdc_4ef7f225",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1130679
+      },
+      "writtenOn": "2022-11-16T07:21:12Z",
+      "side": 1,
+      "message": "LGTM, but gerrit doesn\u0027t let me +1 here either, I\u0027ll try to fix that.",
+      "revId": "ac810ea7d135a719862a9dd0bf28fedb14ad7fb8",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
