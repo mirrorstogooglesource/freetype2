@@ -16,6 +16,23 @@
       "message": "LGTM, but gerrit doesn\u0027t let me +1 here either, I\u0027ll try to fix that.",
       "revId": "ac810ea7d135a719862a9dd0bf28fedb14ad7fb8",
       "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bf4c2e01_737e8b6d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1130679
+      },
+      "writtenOn": "2022-11-16T07:43:10Z",
+      "side": 1,
+      "message": "I filed https://bugs.chromium.org/p/chromium/issues/detail?id\u003d1385252 and have manually pushed these two changes to the 5005 branch now, hope that solves the immediate issue.",
+      "revId": "ac810ea7d135a719862a9dd0bf28fedb14ad7fb8",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
     }
   ]
 }
