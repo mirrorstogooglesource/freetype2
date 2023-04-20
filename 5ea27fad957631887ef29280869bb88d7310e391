@@ -16,6 +16,24 @@
       "message": "Note that you may also want to pick up https://chromium.googlesource.com/chromium/src/+/7a2a957e14e5be58137bfca836c73f6ba328f640 which changes this declaration to `FT_Size`. This is only an issue if you build with Control Flow Integrity.",
       "revId": "5ea27fad957631887ef29280869bb88d7310e391",
       "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6be2c4cc_e7624ff0",
+        "filename": "src/truetype/ttobjs.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 396,
+      "author": {
+        "id": 1516057
+      },
+      "writtenOn": "2023-04-20T08:20:28Z",
+      "side": 1,
+      "message": "Thanks Ben, I picked https://crrev.com/c/4453624 as well. I Will abandon this CL, because I accidentally pushed other with a different change-id and created a different CL: https://chromium-review.googlesource.com/q/topic:%225359_1429372%22",
+      "parentUuid": "a56cf57b_d6d04d15",
+      "revId": "5ea27fad957631887ef29280869bb88d7310e391",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
     }
   ]
 }
