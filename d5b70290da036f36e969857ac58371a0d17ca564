@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "49d0bf06_bcea05bc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1306673
+      },
+      "writtenOn": "2023-06-28T09:48:46Z",
+      "side": 1,
+      "message": "LGTM\n\nCherry-pick CL link\nhttps://chromium.googlesource.com/chromium/src/third_party/freetype2/+/c4fe77c3f072fab930267f95510562e7aeb03302%5E%21/#F0",
+      "revId": "d5b70290da036f36e969857ac58371a0d17ca564",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
