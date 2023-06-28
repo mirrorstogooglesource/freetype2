@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "05ea4c50_6565ae58",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1516057
+      },
+      "writtenOn": "2023-06-28T13:54:03Z",
+      "side": 1,
+      "message": "Hi Ben, Looks like I don\u0027t have permissions for submitting this CL, could you please submit it (and the two other CLs from the topic as well)?",
+      "revId": "f8c1ce47fe003c3629e20fedd6b00f70b7e3688a",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
