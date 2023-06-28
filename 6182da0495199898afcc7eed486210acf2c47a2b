@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ea7a2220_4853db00",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1306673
+      },
+      "writtenOn": "2023-06-28T09:45:47Z",
+      "side": 1,
+      "message": "LGTM\n\nThis is a cherry-pick of https://chromium.googlesource.com/chromium/src/third_party/freetype2/+/8154d8e2be329b1a0a145faae7d5fe0dd6aa7a7a%5E%21/#F0",
+      "revId": "6182da0495199898afcc7eed486210acf2c47a2b",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
